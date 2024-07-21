@@ -39,7 +39,7 @@ jinja2==3.1.3
 python-docx==0.8.11
 python-nmap==0.7.1
 python-pptx==0.6.21
-requests==2.31.0
+requests==2.32.2
 django-timezone-field==4.2.3
 pyjwt==2.7.0
 psutil==5.9.4
